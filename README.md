@@ -23,7 +23,7 @@ _Inspired by the simplicity of **WazirX** and supercharged with **Web3** securit
 
 ## 🌍 For the Community, By the Community
 
-SettleX is an **open-source initiative** meant for anyone who wants to learn, build, and experiment with fintech and cryptocurrency applications.
+SettleX is meant for anyone who wants to learn, build, and experiment with fintech and cryptocurrency applications.
 
 We started this project because we loved the user experience of popular exchanges like **WazirX** and CoinDCX, but we wanted to build something completely transparent that the developer community could dissect and learn from.
 
