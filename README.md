@@ -48,10 +48,6 @@ Most crypto exchange hacks occur because a single point of failure (a single pri
 
 By distributing the keys across different devices, hardware wallets, or individuals, you exponentially increase the security of your funds.
 
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1639762681485-074b7f4aec4a?q=80&w=800&auto=format&fit=crop" width="70%" alt="Security Padlock" style="border-radius: 10px;">
-</div>
-
 ---
 
 ## 📚 Learning & Building
